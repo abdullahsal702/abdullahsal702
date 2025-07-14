@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @abdullahsal702
-- 👀 I’m interested in learning new languages.
-- 🌱 I’m currently learning Python and Javascript.
-- 💞️ I’m looking to collaborate on projects. 
-- 📫 How to reach me ...
+👋 Hi! My name is Abdullah Saleh.
+
+🚗 Currently growing [Quarter](https://quarter.nyc/)
+🛠️ Prev engineering at Course Hero
+🪴 Learn more about me [here](https://salehabdullah.com/) 
 
 <!---
 abdullahsal702/abdullahsal702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
