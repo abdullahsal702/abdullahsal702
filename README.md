@@ -1,7 +1,9 @@
-👋 Hi! My name is Abdullah Saleh.
+# 👋 Hi! My name is Abdullah Saleh.
 
 🚗 Currently growing [Quarter](https://quarter.nyc/)
+
 🛠️ Prev engineering at Course Hero
+
 🪴 Learn more about me [here](https://salehabdullah.com/) 
 
 <!---
